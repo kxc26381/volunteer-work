@@ -11,3 +11,6 @@ This script was written in Python using the selenium, BeautifulSoup, pandas, gsp
 ## Dependencies
 1. Download the latest version of Python from https://www.python.org/downloads/
 2. Install dependencies by running pip install -r requirements.txt in terminal or command line
+
+## Run
+Run python final_volunteer_work.py in command line to run the web scraper
