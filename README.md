@@ -7,3 +7,7 @@ This is an automated script that:
 
 ## Technologies Used
 This script was written in Python using the selenium, BeautifulSoup, pandas, gspread, and oauth2client modules.
+
+## Dependencies
+1. Download the latest version of Python from https://www.python.org/downloads/
+2. Install dependencies by running pip install -r requirements.txt in terminal or command line
