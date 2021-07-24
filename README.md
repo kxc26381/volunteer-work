@@ -8,9 +8,13 @@ This is an automated script that:
 ## Technologies Used
 This script was written in Python using the selenium, BeautifulSoup, pandas, gspread, and oauth2client modules.
 
-## Dependencies
-1. Download the latest version of Python from https://www.python.org/downloads/
-2. Install dependencies by running pip install -r requirements.txt in terminal or command line
-
 ## Run
-Run python final_volunteer_work.py in command line to run the web scraper
+1. Download the latest version of Python from https://www.python.org/downloads/ 
+2. Open command prompt
+3. Run ‘git clone https://github.com/kxc26381/volunteer-work.git’ in command prompt
+4. Run ‘pip install jupyterlab’ in command prompt
+5. Run ‘pip install -r requirements.txt’ in command prompt
+6. Run ‘jupyter lab’ in command prompt
+7. Jupyter Lab should automatically open in browser
+8. Open final_volunteer_work.ipynb in Jupyter Lab
+9. Run all cells in final_volunteer_work.ipynb notebook
