@@ -17,8 +17,9 @@ This script was written in Python using the selenium, BeautifulSoup, pandas, gsp
 3. Run 'git clone https://github.com/kxc26381/volunteer-work.git' in command prompt
 4. Run 'pip install jupyterlab' in command prompt
 5. Run 'pip install -r requirements.txt' in command prompt
-    - If you run into an error with some packages not installing, go through each package and run 'pip install --user package-name' in command prompt
+    - If you run into an error with some packages not installing, go through each package that didn't install and run 'pip install --user package-name' in command prompt
         - i.e. 'pip install --user selenium'
+        - It will usually tell you which packages didn't install, but if it is not obvious, you should install each package listed in the 'requirements.txt' file as instructed above to be safe
 
 ### Option 1
 1. Run 'jupyter lab' in command prompt
