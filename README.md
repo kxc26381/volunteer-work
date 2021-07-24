@@ -10,15 +10,23 @@ This script was written in Python using the selenium, BeautifulSoup, pandas, gsp
 
 ## Run
 *Note: remove quotation marks when running the commands listed below*
+
+### Prerequisites
 1. Download the latest version of Python from https://www.python.org/downloads/ 
 2. Open command prompt
-3. Run ‘git clone https://github.com/kxc26381/volunteer-work.git’ in command prompt
-4. Run ‘pip install jupyterlab’ in command prompt
-5. Run ‘pip install -r requirements.txt’ in command prompt
+3. Run 'git clone https://github.com/kxc26381/volunteer-work.git' in command prompt
+4. Run 'pip install jupyterlab' in command prompt
+5. Run 'pip install -r requirements.txt' in command prompt
     - If you run into an error with some packages not installing, go through each package and run 'pip install --user package-name' in command prompt
         - i.e. 'pip install --user selenium'
-6. Run ‘jupyter lab’ in command prompt
-7. Jupyter Lab should automatically open in browser
-8. Open final_volunteer_work.ipynb in Jupyter Lab
-9. Run all cells and follow instructions when prompted in final_volunteer_work.ipynb notebook
+
+### Option 1
+1. Run 'jupyter lab' in command prompt
+    - Jupyter Lab should automatically open in browser
+2. Open 'final_volunteer_work.ipynb' in Jupyter Lab
+3. Run all cells and follow instructions when prompted in 'final_volunteer_work.ipynb' notebook
+
+### Option 2
+1. Run 'python final_volunteer_work.ipynb' in command prompt
+2. Follow instructions when prompted
 
