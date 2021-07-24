@@ -17,4 +17,4 @@ This script was written in Python using the selenium, BeautifulSoup, pandas, gsp
 6. Run ‘jupyter lab’ in command prompt
 7. Jupyter Lab should automatically open in browser
 8. Open final_volunteer_work.ipynb in Jupyter Lab
-9. Run all cells in final_volunteer_work.ipynb notebook
+9. Run all cells and follow instructions when prompted in final_volunteer_work.ipynb notebook
