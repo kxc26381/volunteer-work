@@ -33,7 +33,6 @@ def scrollDown(browser):
 
 
 def parse(input_url):
-    print("Running...")
     inputEntered = 0;
     osDriver = None;
     while inputEntered == 0:
