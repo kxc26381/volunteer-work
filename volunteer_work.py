@@ -68,7 +68,6 @@ def parse(input_url):
 
         url_query = input_url + "?query=" + query + "/"
 
-        # driver.get("https://uh.campuslabs.com/engage/organizations?query=health")
         driver.get(url_query)
 
         # Waits 2 seconds for website to load to avoid loading issues
