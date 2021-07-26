@@ -22,10 +22,10 @@ This script was written in Python using the selenium, BeautifulSoup, pandas, gsp
 ### Option 1
 1. Run `jupyter lab` in command prompt
     - Jupyter Lab should automatically open in browser
-2. Open 'final_volunteer_work.ipynb' in Jupyter Lab
-3. Run all cells and follow instructions when prompted in 'final_volunteer_work.ipynb' notebook
+2. Open 'volunteer_work.ipynb' in Jupyter Lab
+3. Run all cells and follow instructions when prompted in 'volunteer_work.ipynb' notebook
 
 ### Option 2
-1. Run `python final_volunteer_work.ipynb` in command prompt
+1. Run `python volunteer_work.py` in command prompt
 2. Follow instructions when prompted
 
