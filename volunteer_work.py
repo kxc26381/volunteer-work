@@ -325,6 +325,10 @@ scope = ['https://spreadsheets.google.com/feeds',
 credentials = ServiceAccountCredentials.from_json_keyfile_name(
     'env/service_account.json', scope)
 
+# Test Spreadsheet
+# spreadsheetId = '1qsAF7EmTnFiiDc9Wamkm54dAy4SAjIVvk2DzR7JQbA4'
+# sheetName = 'Master' 
+
 spreadsheetId = '1qsAF7EmTnFiiDc9Wamkm54dAy4SAjIVvk2DzR7JQbA4'  
 sheetName = 'Master' 
 
